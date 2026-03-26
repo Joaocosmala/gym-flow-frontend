@@ -1,6 +1,6 @@
 # gym-flow-frontend;
 
-# 🏋️ GymFlow:
+## 🏋️ GymFlow:
 GymFlow é uma aplicação web voltada para o gerenciamento de treinos em academias, desenvolvida com foco em experiência do usuário, design moderno e organização de informações fitness.
 O projeto foi criado como parte de um trabalho acadêmico, simulando as etapas iniciais de um sistema real, incluindo autenticação, dashboard e perfil de usuário.
 
