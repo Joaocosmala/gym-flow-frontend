@@ -7,29 +7,25 @@ O projeto foi criado como parte de um trabalho acadêmico, simulando as etapas i
 ------- ------- ------- ------- ------- ------- -------
 
 ## ✨ Features / Funcionalidades:
-🔐 Tela de Login;
-🏠 Dashboard (Home) com visão geral de treinos;
-👤 Perfil do usuário com métricas físicas;
-📊 Exibição de progresso e estatísticas;
-🎯 Interface moderna com foco em usabilidade;
-🎨 Design e UX.
+- 🔐 Tela de Login;
+- 🏠 Dashboard (Home) com visão geral de treinos;
+- 👤 Perfil do usuário com métricas físicas;
+- 📊 Exibição de progresso e estatísticas;
+- 🎯 Interface moderna com foco em usabilidade;
+- 🎨 Design e UX.
 
 ## O GymFlow foi projetado seguindo conceitos modernos de aplicações fitness:
-🌙 Dark Mode para melhor experiência visual;
-🟢 Uso de cores vibrantes para ações (call-to-action);
-🧩 Layout baseado em cards;
-📱 Estrutura pensada para mobile-first;
-⚡ Interface limpa, intuitiva e responsiva;
+- 🌙 Dark Mode para melhor experiência visual;
+- 🟢 Uso de cores vibrantes para ações (call-to-action);
+- 🧩 Layout baseado em cards;
+- 📱 Estrutura pensada para mobile-first;
+- ⚡ Interface limpa, intuitiva e responsiva;
 
 ## 🧪 Tecnologias (Sujeito a atualizações);
 - Nextjs
 - TypeScript
 - TailwindCSS
 - Shadcn/UI
-
-## 📸 Preview:
-<img width="1536" height="1024" alt="GymFlow AI Image (Logo)" src="https://github.com/user-attachments/assets/bc2e392c-f763-40ad-8291-b60688920201" />
-<img width="1536" height="1024" alt="GymFlow AI Image (Interface - Protótipo)" src="https://github.com/user-attachments/assets/fd543fad-e6c4-45e5-8461-11e727d4a4f3" />
 
 ## 🚀 Objetivo do Projeto:
 - Aplicar conceitos de desenvolvimento frontend;
@@ -49,3 +45,9 @@ O projeto foi criado como parte de um trabalho acadêmico, simulando as etapas i
 
 ## 📌 Observações:
 - Este projeto é acadêmico e não possui integração real com APIs no momento.
+
+------- ------- ------- ------- ------- ------- -------
+
+## 📸 Preview [Imagens geradas por IA]:
+<img width="1536" height="1024" alt="GymFlow AI Image (Logo)" src="https://github.com/user-attachments/assets/bc2e392c-f763-40ad-8291-b60688920201" />
+<img width="1536" height="1024" alt="GymFlow AI Image (Interface - Protótipo)" src="https://github.com/user-attachments/assets/fd543fad-e6c4-45e5-8461-11e727d4a4f3" />
